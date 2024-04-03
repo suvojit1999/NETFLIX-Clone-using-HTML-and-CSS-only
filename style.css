@@ -165,7 +165,7 @@ option{
     
 }
 .get_email > button > span{
-    font-weight: 100;
+    font-weight: 800;
 }
 .email_box{
     width: 360px;
@@ -672,4 +672,6 @@ background-color: rgb(43, 43, 43);
     .faq_main{
         height: 1000px;
     }
+    .get_email > button > span{
+        font-weight: 600;
 }
